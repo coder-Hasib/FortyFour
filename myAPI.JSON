@@ -1,0 +1,33 @@
+[ 
+    {
+        "rank":1,"name":"Minecraft","Price":"20000","img":"https://upload.wikimedia.org/wikipedia/en/5/51/Minecraft_cover.png","username":"Mini","email":"Sincere@april.biz","dowenload":7678990,"company":"Mojang Corrporation"
+    },
+    {
+        "rank":2,"name":"League of Legends","Price":"20000","img":"https://theme.zdassets.com/theme_assets/43400/87a1ef48e43b8cf114017e3ad51b801951b20fcf.jpg","username":"LLG","email":"Sincere@april.biz","dowenload":9090790,"company":"Rioto Games"
+    },
+    {
+        "rank":3,"name":"Grand Theft Auto V","Price":"20000","img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3Zv6qbtpkJwOV4VvD2lFfqmTXuOvHPCg3OuDOS8lIfIuGT0MovKpSwwoKSn0yxnycYEc&usqp=CAU","username":"Bret","email":"Sincere@april.biz","dowenload":9090790,"company":"Indgame corporation"
+    },
+    {
+        "rank":4,"name":"Call of Duty: Modern Warfare","Price":"20000","img":"https://charlieintel.com/wp-content/uploads/2021/02/New-Modern-Warfare-Season-7-leaks_-Soap-weapons-more-FEATURED.jpg","username":"COD MObile","email":"Sincere@april.biz","dowenload":9090790,"company":"Activision"
+    },
+    {
+        "rank":5,"name":"Fortnite","Price":"20000","img":"https://cdn2.unrealengine.com/18br-lineup-social-social-1920x1080-98b108d7ddfb.jpg","username":"Bret","email":"Sincere@april.biz","dowenload":9090790,"company":"Epic Games"
+    },
+    {
+        "rank":6,"name":"Destiny 2","Price":"20000","img":"https://news.xbox.com/en-us/wp-content/uploads/sites/2/2020/06/Destiny2_Hero_Art.jpg","username":"Bret","email":"Sincere@april.biz","dowenload":9090790,"company":"Bungie corporation"
+    },
+    {
+        "rank":7,"name":"Counter-Strike: Global Offensive","Price":"5000000","img":"https://m.media-amazon.com/images/M/MV5BYzJjMmM4MDktNTI0OS00ZDNkLTk4YmItMjk0Yjc5NDA5YWM4XkEyXkFqcGdeQXVyNjc0NTEzOTA@._V1_.jpg","username":"Bret","email":"Sincere@april.biz","dowenload":3290790,"company":"Valve Corporation"
+    },
+    {
+        "rank":8,"name":"Apex Legends","Price":"476000","img":"https://media.contentapi.ea.com/content/dam/apex-legends/common/articles/apex-mobile-regional-beta/apex-mobile-art-featured-image.jpg.adapt.crop16x9.575p.jpg","username":"Bret","email":"Sincere@april.biz","dowenload":9090790,"company":"Electronic Arts"
+    },
+    {
+        "rank":9,"name":"Rocket League","Price":"4670000","img":"https://rocketleague.media.zestyio.com/rl_season_4_key_art_16_9_no_logos.jpg?optimize=high","username":"Bret","email":"Sincere@april.biz","dowenload":9090790,"company":"Psyonix"
+    },
+    {
+        "rank":10,"name":"Forza Horizon 4","Price":"20000","img":"https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2018/09/forza-horizon-4-release-3.jpg","username":"Bret","email":"Sincere@april.biz","dowenload":9090790,"company":"Ubisoft"
+    }
+
+]
